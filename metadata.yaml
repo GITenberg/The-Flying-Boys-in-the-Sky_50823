@@ -1,4 +1,8 @@
 _repo: The-Flying-Boys-in-the-Sky_50823
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50823-h/images/cover.jpg
 creator:
   author:
     agent_name: Ellis, Edward Sylvester
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '2569'
     url: http://www.gutenberg.org/2009/agents/2569
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50823#The-Flying-Boys-in-the-Sky
 gutenberg_issued: '2016-01-01'
 gutenberg_type: Text
 identifiers:
